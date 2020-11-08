@@ -7,4 +7,4 @@
 **Thoughts:** I am so happy to start my #100daysofcode challenge today. I passed 7/10 requirements, I will try to make it 10/10 tomorrow. I need to learn CSS in order to style the page.
 
 **Link to work:** codepen:https://codepen.io/cass_tella/pen/pobOYZZ
-Github: https://github.com/hello-stella/Freecodecamp-Projects/tree/main/tribute-page-freecodecamp-project
+Github: https://github.com/hello-stella/Freecodecamp-Projects/tree/master/tribute-page-freecodecamp-project
