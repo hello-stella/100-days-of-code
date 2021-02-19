@@ -8,3 +8,11 @@
 
 **Link to work:** codepen:https://codepen.io/cass_tella/pen/pobOYZZ
 Github: https://github.com/hello-stella/Freecodecamp-Projects/tree/master/tribute-page-freecodecamp-project
+
+### Day 2: February 19, 2021
+
+**Today's Progress**: Finally submitted Tribute Page on Freecodecamp. Passed 10/10 requirements now. Feeling happy!
+
+**Thoughts:** It's been a while! I haven't coded for a while and the time really flies. I will not give up this time on learning.
+
+**Link to work:** codepen:https://codepen.io/cass_tella/full/pobOYZZ
