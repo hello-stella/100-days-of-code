@@ -15,4 +15,4 @@ Github: https://github.com/hello-stella/Freecodecamp-Projects/tree/master/tribut
 
 **Thoughts:** It's been a while! I haven't coded for a while and the time really flies. I will not give up this time on learning.
 
-**Link to work:** codepen:https://codepen.io/cass_tella/full/pobOYZZ
+**Link to work:** codepen:https://codepen.io/cass_tella/full/pobOYZZ github:https://github.com/hello-stella/freecodecamp-projects/tree/main/tribute-page
